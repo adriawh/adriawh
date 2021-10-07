@@ -1,10 +1,9 @@
 ### Hey🙌🏻
-Check my LinkedIn for more information about me.
+Check my LinkedIn link to the left for more information about me.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-### Games [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh)](https://github.com/anuraghazra/github-readme-stats)
+### Games 
 (From the highschool repository)
 
 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
