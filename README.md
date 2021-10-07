@@ -1,4 +1,5 @@
-### Hei🙌🏻
+### Hey🙌🏻
+Check my linkedIn for more information about me.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,3 +12,5 @@ Play [GravityTurn](https://htmlpreview.github.io/?https://github.com/adriawh/Hig
 Play [DodgeBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/DodgeBall.html)
 
 Play [OneBlockTetris](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/OneBlockTetris.html)
+
+(From the highschool repository)
