@@ -3,7 +3,7 @@
 Currently learning C++ and Vue✌🏻
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Vue
