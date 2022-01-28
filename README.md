@@ -1,6 +1,7 @@
 ### Hey🙌
 
-Currently learning C++ and Vue✌🏻
+* Currently learning C++ and Vue✌🏻
+* Looking forward to working as a summer intern at Zedge
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,5 +22,3 @@ Play [GravityTurn](https://htmlpreview.github.io/?https://github.com/adriawh/Hig
 Play [DodgeBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/DodgeBall.html)
 
 Play [OneBlockTetris](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/OneBlockTetris.html)
-
-(Code and more, can be found in the highschool repository)
