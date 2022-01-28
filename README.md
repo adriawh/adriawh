@@ -16,10 +16,10 @@ Currently learning👇🏻👇🏻:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 ## Vue 
 See my work with vue so far: [IDATT2105](https://adriawh.github.io/IDATT2105-fullstack_appliksjonsutvikling/)
--->
+
 
 ## Games 
 Simple games i made in highschool🤠
