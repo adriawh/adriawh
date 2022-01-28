@@ -1,7 +1,6 @@
 ### Hey🙌
 
 * Currently learning C++ and Vue✌🏻
-* Looking forward to working as a summer intern at Zedge
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
