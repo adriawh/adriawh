@@ -1,4 +1,5 @@
 # Hey 👋🏻
+![](https://komarev.com/ghpvc/?username=adriawh)
 
 Currently learning👇🏻👇🏻:
 
