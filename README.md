@@ -23,7 +23,7 @@ See my work with vue so far: [IDATT2105](https://adriawh.github.io/IDATT2105-ful
 
 
 ## Games 
-Simple games i made in highschool🤠
+Simple games i made in highschool 🐵
 
 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
 
