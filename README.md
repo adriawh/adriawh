@@ -23,12 +23,15 @@ See my work with vue so far: [IDATT2105](https://adriawh.github.io/IDATT2105-ful
 
 
 ## Games 
-Simple games i made in highschool 🐵
+### Simple games i made in highschool 🐵
 
+#### PLay with the arrows or AWSD:
 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
 
+#### These two are played with the spacebar:
 Play [GravityTurn](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/Gravity-turn.html)
 
 Play [DodgeBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/DodgeBall.html)
 
+#### Is actually an unfinished project, but i still find it kinda cool:)
 Play [OneBlockTetris](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/OneBlockTetris.html)
