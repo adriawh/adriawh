@@ -22,10 +22,9 @@ Currently learning👇🏻👇🏻:
 See my work with vue so far: [IDATT2105](https://adriawh.github.io/IDATT2105-fullstack_appliksjonsutvikling/)
 
 
-## Games 
-### Simple games i made in highschool 🐵
+## Simple games i made in highschool 🐵
 
-#### PLay with the arrows or AWSD:
+#### Play with the arrows or AWSD:
 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
 
 #### These two are played with the spacebar:
