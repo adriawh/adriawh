@@ -29,6 +29,7 @@ Play [DodgeBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highs
 
 #### These two are played with the spacebar:
 Play [GravityTurn](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/Gravity-turn.html)
+
 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
 
 #### Is actually an unfinished project, but i still find it kinda cool:)
