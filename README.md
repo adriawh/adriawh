@@ -1,7 +1,7 @@
-# Hey 👋🏻
-![](https://komarev.com/ghpvc/?username=adriawh)
-
-Welcome to my github page 🙉
+# 🙋🏼‍♂️Hey
+Currently studying computer engineering at NTNU Trondheim. I have been programming since higschool.
+Using github as a place to organize and showcase my code and work. 
+If you want to connect, hit me up on Linked In.
 
 ## 🍔 Techstack
 
@@ -22,8 +22,7 @@ Technologies and progamming languages i have gotten to some degree familiar with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌲 Vue 
-See my work with vue so far: [IDATT2105](https://adriawh.github.io/IDATT2105-fullstack_appliksjonsutvikling/)
-
+A simple calculator made in Vue: [IDATT2105](https://adriawh.github.io/IDATT2105-fullstack_appliksjonsutvikling/)
 
 ## 🎲 Simple games i made in highschool
 
