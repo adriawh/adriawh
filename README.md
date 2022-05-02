@@ -1,9 +1,9 @@
 # 🙋🏼‍♂️Hey
 Currently studying computer engineering at NTNU Trondheim. I have been programming since higschool.
 Using github as a place to organize and showcase my code and work. 
-If you want to connect, hit me up on Linked In.
+If you want to connect, hit me up on Linked In
 
-[![wakatime](https://wakatime.com/badge/user/b2a55441-4654-4f7b-8b35-4a325a0c0fd6.svg)](https://wakatime.com/@b2a55441-4654-4f7b-8b35-4a325a0c0fd6)
+![wakatime](https://wakatime.com/badge/user/b2a55441-4654-4f7b-8b35-4a325a0c0fd6.svg)
 
 ## 🍔 Techstack
 
