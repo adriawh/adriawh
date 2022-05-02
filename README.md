@@ -40,9 +40,6 @@ Technologies and progamming languages i have gotten to some degree familiar with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 👽 Vue 
-A simple calculator made in Vue: [IDATT2105](https://adriawh.github.io/IDATT2105-fullstack_appliksjonsutvikling/)
-
 ## 🎲 Simple games i made in highschool
 
 #### Play with the arrows or AWSD:
