@@ -4,9 +4,7 @@ Using github as a place to organize and showcase my code and work.
 If you want to connect, hit me up on Linked In
 
 
-Hours coding since september 2021:
-
-![wakatime](https://wakatime.com/badge/user/b2a55441-4654-4f7b-8b35-4a325a0c0fd6.svg)
+Hours coding since september 2021: ![wakatime](https://wakatime.com/badge/user/b2a55441-4654-4f7b-8b35-4a325a0c0fd6.svg)
 
 ## 🍔 Techstack
 
