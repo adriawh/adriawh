@@ -38,10 +38,6 @@ Technologies and progamming languages i have worked with:
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriawh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Latest project 🚀
 Over the summer of 2022 i was an intern at Zedge. Here, together with 3 other students, we developed and published an Android application. During the project i learnt to program in kotlin and create apps for android. I got more familiar with figma for both designing the user interface and creating a wireframe, aswell as creating graphics for the app. Furthermore we looked into firebase and amplitude to learn from the userdata the app produced. The app can be found at https://marsgif.app.
 
