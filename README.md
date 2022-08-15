@@ -8,7 +8,7 @@ Hours coding since september 2021: ![wakatime](https://wakatime.com/badge/user/b
 
 ## 🍔 Techstack
 
-Technologies and progamming languages i have gotten to some degree familiar with:
+Technologies and progamming languages i have worked with:
 
 ### Languages:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
