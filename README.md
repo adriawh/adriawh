@@ -41,6 +41,7 @@ Technologies and progamming languages i have worked with:
 ![Spring-boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ## Latest project 🚀
 Over the summer of 2022 i was an intern at Zedge. Here, together with 3 other students, we developed and published an Android application. During the project i learnt to program in kotlin and create apps for android. I got more familiar with figma for both designing the user interface and creating a wireframe, aswell as creating graphics for the app. Furthermore we looked into firebase and amplitude to learn from the userdata the app produced. The app can be found at https://marsgif.app.
