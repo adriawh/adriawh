@@ -1,4 +1,19 @@
-## 🎲 Simple games i made in highschool
+## Hey there, I'm Adrian! 👋
+
+🏢 **Currently**: Software Developer at AtB 🚌  
+🎓 **Studying**: Master's in Computer Science  
+
+💡 **About Me**:
+- Passionate about technology and innovation 🧑‍💻
+- Extensive experience in app development 📱
+- Worked with both small and large teams 
+- Collaborated in structured corporate environments and agile startups 🚀
+
+🔗 **Let's Connect**:
+- [LinkedIn](https://www.linkedin.com/in/adrian-wist-hakvåg/)
+
+
+If you have some spare time, check out the games i made in highschool.
 
 #### Play with the arrows or AWSD:
 🤹🏻‍♂️ Play [DodgeBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/DodgeBall.html)
@@ -8,5 +23,5 @@
 
 🏐 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
 
-#### Is actually an unfinished project, but i still find it kinda cool:)
+#### Super easy tetris, arrows and spacebar
 🏗 Play [OneBlockTetris](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/OneBlockTetris.html)
