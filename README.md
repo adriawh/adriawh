@@ -3,12 +3,6 @@
 🏢 **Currently**: Software Developer at AtB 🚌  
 🎓 **Studying**: Master's in Computer Science  
 
-💡 **About Me**:
-- Passionate about technology and innovation 🧑‍💻
-- Extensive experience in app development 📱
-- Worked with both small and large teams 
-- Collaborated in structured corporate environments and agile startups 🚀
-
 🔗 **Let's Connect**:
 - [LinkedIn](https://www.linkedin.com/in/adrian-wist-hakvåg/)
 
