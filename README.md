@@ -7,6 +7,7 @@
 - [LinkedIn](https://www.linkedin.com/in/adrian-wist-hakvåg/)
 
 
+### Highschool fun
 If you have some spare time, check out the games i made in highschool.
 
 #### Play with the arrows or AWSD:
