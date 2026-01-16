@@ -1,7 +1,6 @@
 ## Hey there, I'm Adrian! 👋
 
 🏢 **Currently**: Software Developer at AtB 🚌  
-🎓 **Studying**: Master's in Computer Science  
 
 🔗 **Let's Connect**:
 - [LinkedIn](https://www.linkedin.com/in/adrian-wist-hakvåg/)
